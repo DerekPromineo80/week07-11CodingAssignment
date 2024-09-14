@@ -60,7 +60,7 @@ public class ProjectsApp {
 			}
 			} catch(Exception e) {
 				System.out.println("\nError: " + e + " Try again");
-				// e.printStackTrace(); // added due to instructions week 10
+				// e.printStackTrace(); // used if I want to get more info on the error from the console, and/or use debugger.
 			}
 		}
 	} // End of processUserSelections method
